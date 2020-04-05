@@ -1,3 +1,3 @@
 # git-class
 
-This is for the Tutorial purpose
+This is for the Tutorial purpose practice
